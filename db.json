@@ -24,7 +24,7 @@
             "ticket" : "Ticket 2",
             "ticket_tv" : "Ticket TV 2",
             "tipo" : "tickets",
-            "estado_llamada" : "0"
+            "estado_llamada" : "1"
         },
         {
             "id" : "3",
@@ -50,7 +50,7 @@
             "ticket" : "Ticket 4",
             "ticket_tv" : "Ticket TV 4",
             "tipo" : "tickets",
-            "estado_llamada" : "0"
+            "estado_llamada" : "1"
         },
         {
             "id" : "5",
